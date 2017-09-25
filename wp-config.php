@@ -19,8 +19,6 @@
  */
 
 
- mysql://b3db59366903b9:89576860@us-cdbr-iron-east-05.cleardb.net/heroku_9a115c690127c45?reconnect=true
-
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 // define('DB_NAME', 'pedialyte');

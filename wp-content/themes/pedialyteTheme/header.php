@@ -42,16 +42,16 @@
 							<a data-scroll href="#whatIsDehydration">¿Qué es <br class="hidden-xs"> la deshidratación?</a>
 						</li>
 						<li>
-							<a data-scroll href="#">¿Qué causa la <br class="hidden-xs"> deshidratación?</a>
+							<a data-scroll href="#DehydrationCause">¿Qué causa la <br class="hidden-xs"> deshidratación?</a>
 						</li>
 						<li>
-							<a data-scroll class="customLink" href="#">¿Por qué pedialyte?</a>
+							<a data-scroll class="customLink" href="#whyPedialyte">¿Por qué pedialyte?</a>
 						</li>
 						<li>
-							<a data-scroll href="#">Hidratación <br class="hidden-xs"> y Alimentación</a>
+							<a data-scroll href="#hydration">Hidratación <br class="hidden-xs"> y Alimentación</a>
 						</li>
-						<li class=" lastLink">
-							<a data-scroll href="#">¿Cómo prevenir <br class="hidden-xs"> la deshidratación?</a>
+						<li class="lastLink">
+							<a data-scroll href="#containerPrevent">¿Cómo prevenir <br class="hidden-xs"> la deshidratación?</a>
 						</li>
 						<li class="dropdown hidden">
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> ¿Por qué pedialyte? <span class="caret"></span></a>

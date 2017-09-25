@@ -50,7 +50,7 @@
 		<script>
 			smoothScroll.init({
 				// Speed & Easing
-				speed: 1000, // Integer. How fast to complete the scroll in milliseconds
+				speed: 1300, // Integer. How fast to complete the scroll in milliseconds
 				offset: 0, // Integer or Function returning an integer. How far to offset the scrolling anchor location in pixels
 				easing: 'easeInOutCubic' // Easing pattern to use
 			});
