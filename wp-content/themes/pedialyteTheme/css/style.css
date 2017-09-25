@@ -1,0 +1,721 @@
+
+/* GENERAL STYLES */
+html {
+    margin-top: 0px !important;
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+/* HELPERS */
+
+h2 {
+    color: #e31d3f;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 2.85rem;
+}
+
+h3 {
+    color: #e31d3f;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 2.65rem;
+}
+
+h4 {
+    font-size: 1.4rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-top: 20px;
+    margin-bottom: 12px;
+}
+
+a,
+a:hover,
+a:active,
+a:footer, 
+button,
+button:hover,
+button:active,
+button:focus {
+    outline: none !important;
+}
+
+.textoGeneralPedialyte {
+    margin-bottom: 30px;
+}
+
+.no-padding {
+    padding: 0px;
+}
+
+.img-responsive {
+    width: 100%;
+}
+
+.dividerPrevent {
+    border-bottom: 1px solid #c9e0de;
+}
+
+.navbar {
+    margin-bottom: 0px;
+}
+
+.carousel-control.left, .carousel-control.right {
+    background-image: none;
+}
+
+.carousel-indicators {
+    bottom: -60px;
+}
+
+.carousel-indicators li {
+    background-color: #D0D1D2 !important;
+    border: none;
+}
+
+.carousel-indicators li.active {
+    background-color: #e22119 !important;
+}
+
+.generalTextPedialyte {
+    color: #404041;
+    font-size: 1.85rem;
+    text-align: center;
+    line-height: 30px;
+}
+
+.generalTextPedialyte2 {
+    color: #404041;
+    font-size: 1.85rem;
+    text-align: center;
+    line-height: 30px;
+}
+
+
+/* MENU AND NAVIGATION  */
+
+.navbar-headerLogos {
+    min-height: 140px;
+    background-color: transparent;
+    border: none;
+}
+
+.containerHeaderLogos {
+    position: absolute;
+    top: 50%;
+    margin-top: -25px;
+}
+
+.navbar-menuLinks {
+    min-height: 55px;
+    background-color: #e22119;
+    position: absolute;
+    z-index: 1;
+    border: none;
+}
+
+.navbar-menuLinks .container-fluid,
+.navbar-menuLinks .navbar-header {
+    min-height: inherit;
+}
+
+.navbar-menuLinks .deployedMenu {
+    background-color: #e22119;
+    border: none;
+    box-shadow: none;
+    margin-bottom: 25px;
+}
+
+.navbar-menuLinks .navbar-header button,
+.navbar-menuLinks .navbar-header button:hover,
+.navbar-menuLinks .navbar-header button:active,
+.navbar-menuLinks .navbar-header button:focus {
+    background-color: transparent;
+    border: none;
+    margin-bottom: 0px;
+    top: 50px;
+    margin-top: -44px;
+    position: relative;
+}
+
+.navbar-menuLinks button span.icon-bar {
+    height: 5px;
+    width: 32px;
+    background-color: #FFF !important;
+    margin-bottom: 5px;
+}
+
+.deployedMenu .menuLinks li a,
+.deployedMenu .menuLinks li a:hover,
+.deployedMenu .menuLinks li a:focus,
+.deployedMenu .menuLinks li a:active,
+.deployedMenu .menuLinks li.dropdown {
+    color: #FFF;
+    font-size: 1.55rem;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.deployedMenu .menuLinks li.dropdown.open a {
+    background-color: transparent;
+    color: #FFF;
+}
+
+
+
+
+
+/* HOME LANDING STYLES */
+
+.containerHomePedialyte {
+    min-height: calc(100% - 195px);
+    margin-top: 63px;
+}
+
+.containerWhatsDehydration {
+    margin-top: 80px;
+    margin-bottom: 15px;
+}
+
+.containerWhatsDehydration .imgDehydration {
+    margin-bottom: 30px;
+}
+
+.containerDehydrationCause {
+    margin-bottom: 40px;
+}
+
+.containerDehydrationCause .imagesDehydrationCause {
+    margin-top: 20px;
+}
+
+.containerDehydrationCause .imgDehydrationCauses {
+    margin-bottom: 20px;
+}
+
+.containerDehydrationCause .imgDehydrationCauses:last-child {
+    margin-bottom: 10px;
+}
+
+.recommendationText p {
+    text-align: center;
+    font-size: 1.2rem;
+    color: #404041;
+}
+
+.conatinerWhyPedialyte h2.whyPedialyte,
+.containerHydration h2.whyPedialyte,
+.containerPrevent h2.whyPedialyte {
+    margin-bottom: 0px;
+}
+
+.conatinerWhyPedialyte p.whyPedialyteText,
+.containerHydration p.whyPedialyteText,
+.containerPrevent p.whyPedialyteText {
+    color: #404041;
+    font-size: 2.85rem;
+    text-align: center;
+    text-transform: uppercase;
+    line-height: 32px;
+}
+
+.conatinerWhyPedialyte .imgWhyPedialyte {
+    margin-bottom: 35px;
+}
+
+.containerHydration .chart1 {
+    margin-bottom: 35px;
+}
+
+.containerHydration .chart1 h4 {
+    color: #2b87a2;
+}
+
+.containerHydration .chart2 h4 {
+    color: #e31d3f;
+}
+
+.containerPrevent {
+    margin-top: 35px;
+}
+
+.preventTips {
+    background-color: #d8efee;
+    padding-top: 25px;
+}
+
+.preventTips .preventTextTip1 p,
+.preventTips .preventTextTip p,
+.preventTips .preventTextTip2 p,
+.preventTips .preventTextTip3 p {
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    color: #2b87a2;
+    font-weight: bold;
+    word-spacing: -1px;
+    line-height: 16px;
+}
+
+.preventIcon1 {
+    height: 135px;
+    border-bottom: 1px solid #c9e0de;
+}
+
+.preventIcon {
+    height: 95px;
+}
+
+.lastPreventIcon {
+    border: none;
+}
+
+.imgPreventTip1 {
+    top: 50%;
+    position: relative;
+    margin-top: -37px;
+}
+
+.imgPreventTip {
+    top: 50%;
+    position: relative;
+    margin-top: -27px;
+}
+
+.preventTextTip,
+.preventTextTip2,
+.preventTextTip3 {
+    position:absolute;
+    right: 0px;
+    top: 50%;
+}
+
+.preventTextTip {
+    margin-top: -24px;
+}
+
+.preventTextTip2 {
+    margin-top: -17px;    
+}
+
+.preventTextTip3 {
+    margin-top: -45px;
+}
+
+.containerRecommend {
+    margin-top: 35px;
+}
+
+.containerRecommend h2.recommend {
+    border-top: 2px solid #2b87a2;
+    border-bottom: 2px solid #2b87a2;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+h2.recommend span {
+    font-size: 2rem;
+    display: inline-block;
+    position: relative;
+    margin-left: -5px;
+    top: -6px;
+}
+
+.textRecommend {
+    color: #404041;
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+
+
+
+/* FOOTER */
+
+.footerPedialyte {
+    bottom: 0px;
+    margin-top: 30px;
+    margin-bottom: 25px;
+}
+
+.titulo {
+    color: #e31d3f;
+    text-transform: uppercase;
+    font-size: 2.5rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+.FAQ_Pedialyte {
+    background-color: #d8efee;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 25px;
+}
+
+.FAQ_Pedialyte p {
+    color: #2b87a2;
+    text-transform: uppercase;
+    font-size: 1.65rem;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+
+.FAQ_Pedialyte p a {
+    cursor: pointer;
+}
+
+.FAQ_Pedialyte span.mailFAQPedialyte  {
+    text-transform: lowercase;
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.privacyPoliciesPedialyte {
+    margin-top: 25px;
+    border-top: 2px solid #2b87a2;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-bottom: 2px solid #2b87a2;
+}
+
+.privacyPoliciesPedialyte ul {
+    list-style: none;
+    font-size: 1.55rem;
+    text-align: center;
+}
+
+.privacyPoliciesPedialyte ul li {
+    margin-top: 6px;
+    margin-bottom: 6px;
+}
+
+.privacyPoliciesPedialyte ul li a {
+    color: #404041;
+}
+
+.copyrightPedialyte p {
+    color: #404041;
+    text-align: center;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+
+
+/* MEDIA QUERIES */
+
+@media screen and (min-width: 768px) {
+
+    .customPadding {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .customPadding1 {
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+
+    h3 {
+        text-align: left;
+        font-size: 2.2rem;
+    }
+
+    .generalTextPedialyte {
+        color: #404041;
+        font-size: 1.5rem;
+        text-align: center;
+        line-height: 30px;
+    }
+    
+    .generalTextPedialyte2 {
+        color: #404041;
+        font-size: 1.5rem;
+        text-align: left;
+        line-height: 30px;
+    }
+
+    .navbar-menuLinks {
+        min-height: 45px;
+    }
+
+    .containerHomePedialyte {
+        margin-top: 60px;
+    }
+
+    .navbar-menuLinks .container-fluid {
+        padding: 0px;
+    }
+
+    .navbar-menuLinks .deployedMenu {
+        padding: 0px;
+        margin-bottom: 0px;
+        text-align: center;
+    }
+
+    .menuLinks {
+        float: left;
+    }
+
+    .customLink {
+        margin-top: 8px;
+    }
+
+    .menuLinks li {
+        padding: 0px;
+        border-right: 4px solid #FFF;
+        width: 20%;
+        text-align: center;
+    }
+
+    .menuLinks li:nth-child(3) {
+        min-height: 52px;
+    }
+
+    .deployedMenu .menuLinks li a,
+    .deployedMenu .menuLinks li a:hover,
+    .deployedMenu .menuLinks li a:active,
+    .deployedMenu .menuLinks li a:focus {
+        font-size: 1rem;
+        line-height: 14px;
+        padding-top: 12px;
+        padding-bottom: 12px;
+    }
+
+    .deployedMenu .menuLinks li.lastLink {
+        border: none;
+    }
+
+    .containerWhatsDehydration .imgDehydration {
+        margin-bottom: 0px;
+    }
+
+    .containerDehydrationCause .imgDehydrationCauses {
+        margin-bottom: 20px;
+        padding-right: 6px;
+        padding-left: 6px;
+    }
+
+    .recommendationText .text {
+        bottom: -225px;
+        left: -5px;
+    }
+
+    .recommendationText p {
+        text-align: left;
+        font-size: 1.1rem;
+        color: #404041;
+    }
+
+    .containerHydration .chart1, .containerHydration .chart2 {
+        padding-left: 10.5px;
+        padding-right: 10.5px;
+    }
+
+    .preventTips {
+        padding-top: 35px;
+        padding-bottom: 15px;
+    }
+
+    .preventIcon {
+        height: 105px;
+    }
+
+    .preventIcon1 {
+        height: 135px;
+    }
+
+    .imgPreventTip1 {
+        top: 50%;
+        position: relative;
+        margin-top: -37px;
+        margin-left: 15px;
+    }
+
+    .imgPreventTip {
+        margin-left: 15px;
+    }
+
+    .preventTextTip, 
+    .preventTextTip2, 
+    .preventTextTip3 {
+        position: relative;
+        top: 50%;
+    }
+
+    .preventTips .preventTextTip1 p, 
+    .preventTips .preventTextTip p, 
+    .preventTips .preventTextTip2 p, 
+    .preventTips .preventTextTip3 p {
+        font-size: 1.55rem;
+        text-transform: uppercase;
+        color: #2b87a2;
+        font-weight: bold;
+        word-spacing: -1px;
+        line-height: 16px;
+    }
+
+    .textRecommend {
+        font-size: 1.05rem;
+    }
+
+    .FAQ_Pedialyte {
+        background-color: #d8efee;
+        padding-top: 20px;
+        padding-bottom: 15px;
+        margin-bottom: 5px;
+    }
+
+    .privacyPoliciesPedialyte {
+        margin-top: 5px;
+        padding-top: 10px;
+        padding-bottom: 0px;
+    }
+
+    .privacyPoliciesPedialyte ul {
+        font-size: 1.25rem;
+    }
+
+    .privacyPoliciesPedialyte ul li {
+        width: auto;
+        padding-left: 5px;
+        padding-right: 5px;
+        height: 15px;
+        border-right: 1px solid #333;
+    }
+
+    .privacyPoliciesPedialyte ul li:last-child {
+        border: none;
+    }
+
+    .privacyPoliciesPedialyte ul li a, 
+    .privacyPoliciesPedialyte ul li a:hover, 
+    .privacyPoliciesPedialyte ul li a:active,
+    .privacyPoliciesPedialyte ul li a:focus {
+        text-decoration: none;
+    }
+
+    .copyrightPedialyte p {
+        text-align: left;
+    }
+}
+
+@media screen and (min-width: 992px) {
+
+    .containerHeaderLogos, .logopedialyte {
+        height: 75px;
+    }
+
+    .logopedialyte img.LogoPedialyte {
+        height: inherit;
+        width: 165px;
+    }
+
+    .deployedMenu .menuLinks li a, 
+    .deployedMenu .menuLinks li a:hover, 
+    .deployedMenu .menuLinks li a:active, 
+    .deployedMenu .menuLinks li a:focus {
+        font-size: 1.3rem;
+        line-height: 14px;
+        padding-top: 12px;
+        padding-bottom: 12px;
+    }
+
+    .recommendationText .text {
+        bottom: 0px;
+    }
+
+    .recommendationText p {
+        text-align: center;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+
+    html, body {
+        width: 960px;
+        margin: 0px auto;
+    }
+
+    h4 {
+        font-size: 1.8rem;
+    }
+
+    .navbar-menuLinks {
+        min-height: 50px;
+        position: relative;
+    }
+    
+    .containerHomePedialyte {
+        margin-top: 10px;
+    }
+
+    .generalTextPedialyte {
+        font-size: 1.7rem;
+    }
+
+    .generalTextPedialyte2 {
+        font-size: 1.6rem;
+    }
+
+    .preventTips {
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+
+    .preventIcon1 {
+        border: none;
+    }
+
+    .preventIcon1.firstPreventTip {
+        border: none;
+        top: 30px;
+        height: 145px;
+        padding: 0px;
+    }
+
+    .preventIcon {
+        height: 70px;
+    }
+
+    .preventIcon1 {
+        height: 100px;
+    }
+    
+    .preventIcon.preventIconDesktop,
+    .preventIcon1.preventIconDesktop {
+        border-top: 1px solid #c9e0de;
+        padding-top: 15px;
+    }
+
+    .secondPreventTips {
+        padding: 0px;
+    }
+
+    .preventTips .preventTextTip1 p, 
+    .preventTips .preventTextTip p, 
+    .preventTips .preventTextTip2 p, 
+    .preventTips .preventTextTip3 p {
+        font-size: 1rem;
+    }
+
+    .imgPreventTip.imgPreventDesktop {
+        margin-top: -20px;
+    }
+
+    .footerPedialyte {
+        bottom: 0px;
+        margin-top: 0px;
+        margin-bottom: 25px;
+    }
+
+}
+
