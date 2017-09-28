@@ -11,14 +11,14 @@
 								Sugerencias o 
 							</span>
 							<span>
-								Quieres saber más sobre pedialyte?
+								Quieres saber más sobre pedialyte&reg;?
 							</span>
-							<br class="hidden-sm">
+							<br class="hidden-sm hidden-md">
 							<br class="hidden-sm hidden-lg">
 							<span>
 								Ponte en contacto con nosotros
 							</span>
-							<br class="hidden-xs">
+							<br class="hidden-xs hidden-md">
 							<br class="hidden-xs hidden-sm hidden-lg">
 							<span class="mailFAQPedialyte">
 								<a href="mailto: nutricionatualcance@abbott.com">nutricionatualcance@abbott.com</a>

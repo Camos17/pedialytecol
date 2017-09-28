@@ -138,7 +138,7 @@ Template Name: inicio
 				<div class="col-xs-12 col-sm-8">
 					<h3>No todas las deshidrataciones son iguales</h3>
 					<p class="col-xs-12 no-padding generalTextPedialyte2">
-						Una deshidratación puede ser leve, moderada o grave según la cantidad de líquido corporal que se haya perdido o no se haya repuesto. Muchas cosas pueden causar deshidratación, siempre que tú o tu hijo pierdan líquidos corporales en grandes cantidades debido a una gastroenteritis, vómito o diarrea, el mantenerse hidratado puede ser más difícil. Tú o tu pequeño pueden perder más agua y electrolitos de los que pueden reponer fácilmente por medio de los aliementos y las bebidas habituales.
+						Una deshidratación puede ser leve, moderada o grave según la cantidad de líquido corporal que se haya perdido o que no se haya repuesto. Muchas cosas pueden causar deshidratación, siempre que tú o tu hijo pierdan líquidos corporales en grandes cantidades debido a una gastroenteritis, vómito o diarrea, el mantenerse hidratado puede ser más difícil. Tú o tu pequeño pueden perder más agua y electrolitos de los que pueden reponer fácilmente por medio de los aliementos y las bebidas habituales.
 					</p>
 				</div>
 			</div>
@@ -182,7 +182,7 @@ Template Name: inicio
 		<!-- Why Pedialyte -->
 		<div id="whyPedialyte" class="col-xs-12 conatinerWhyPedialyte customPadding1">
 			<div class="col-xs-12 textoGeneralPedialyte">
-				<h2>¿Por qué <br class="visible-xs"> pedialyte?</h2>
+				<h2>¿Por qué <br class="visible-xs"> pedialyte&reg;?</h2>
 				<p class="col-xs-12 no-padding generalTextPedialyte">
 					Pedialyte&reg; es un portafolio de sueros de rehidratación oral científicamente formulado, con el balance de azúcar y electrolitos que se necesita para reponer líquidos vitales, minerales y  nutrientes que una vez perdidos pueden conducir a un estado de deshidratación. <br>
 					Niños y adultos pueden usar Pedialyte&reg; en momentos de deshidratación leve o moderada a grave, para mantenerse hidratados. Por 50 años, Pedialyte&reg; ha ayudado a las personas a recuperarse  de cualquier tipo de deshidratación.	
@@ -268,7 +268,7 @@ Template Name: inicio
 									<img class="img-responsive" src="<?php echo get_bloginfo('template_directory'); ?>/img/preventIcono4.png" alt="">
 								</div>
 								<div class="col-xs-10 col-sm-9 preventTextTip3">
-									<p>Redhidrátalo lentamente con pedialyte max 60 con zinc. <br><br> Verifica que el número 60 esté en el frasco.</p>
+									<p>Redhidrátalo lentamente con pedialyte&reg; max 60 con zinc. <br><br> Verifica que el número 60 esté en el frasco.</p>
 								</div>
 							</div>
 							<div class="row no-padding dividerPrevent hidden-lg"></div>
