@@ -125,7 +125,7 @@ Template Name: inicio
 				<div class="col-xs-12 col-sm-8">
 					<h3>¿Por qué es tan importante?</h3>
 					<p class="col-xs-12 no-padding generalTextPedialyte2">
-						Hidratarse de forma adecuda mejora la temperatura corporal, activa las funciones del cerebro y previene la fatiga. También ayuda a mantener la piel hidratada, producir los fluidos corporales necesarios como lágrimas y saliva, y remover desechos a través del sudor, la orina  y la materia fecal.
+						Hidratarse de forma adecuada mejora la temperatura corporal, activa las funciones del cerebro y previene la fatiga. También ayuda a mantener la piel hidratada, producir los fluidos corporales necesarios como lágrimas y saliva, y remover desechos a través del sudor, la orina  y la materia fecal.
 					</p>
 				</div>
 			</div>
@@ -138,7 +138,7 @@ Template Name: inicio
 				<div class="col-xs-12 col-sm-8">
 					<h3>No todas las deshidrataciones son iguales</h3>
 					<p class="col-xs-12 no-padding generalTextPedialyte2">
-						Una deshidratación puede ser leve, moderada o grave según la cantidad de líquido corporal que se haya perdido o que no se haya repuesto. Muchas cosas pueden causar deshidratación, siempre que tú o tu hijo pierdan líquidos corporales en grandes cantidades debido a una gastroenteritis, vómito o diarrea, el mantenerse hidratado puede ser más difícil. Tú o tu pequeño pueden perder más agua y electrolitos de los que pueden reponer fácilmente por medio de los aliementos y las bebidas habituales.
+						Una deshidratación puede ser leve, moderada o grave según la cantidad de líquido corporal que se haya perdido o que no se haya repuesto. Muchas cosas pueden causar deshidratación, siempre que tú o tu hijo pierdan líquidos corporales en grandes cantidades debido a una gastroenteritis, vómito o diarrea, el mantenerse hidratado puede ser más difícil. Tú o tu pequeño pueden perder más agua y electrolitos de los que pueden reponer fácilmente por medio de los alimentos y las bebidas habituales.
 					</p>
 				</div>
 			</div>
@@ -173,7 +173,7 @@ Template Name: inicio
 					<img class="img-responsive" src="<?php echo get_bloginfo('template_directory'); ?>/img/GraphicTexts5.png" alt="">
 				</div>
 				<div class="col-xs-12 col-sm-5 col-md-10 col-md-offset-1 text">
-					<p class="col-xs-12 no-padding">*Se puede presentar una deshidratación leve en viajes aéreos largos, aproximadamente de más de horas. Es importante hidratarse antes, durente y después del vuelo, para contrarrestar los efectos deshidratantes del aire seco de la cabina. <br class="visible-xs"> Fuente: Mayo Clinic: www.mayoclinic.com.
+					<p class="col-xs-12 no-padding">*Se puede presentar una deshidratación leve en viajes aéreos largos, aproximadamente de más de 6 horas. Es importante hidratarse antes, durante y después del vuelo, para contrarrestar los efectos deshidratantes del aire seco de la cabina. <br class="visible-xs"> Fuente: Mayo Clinic: www.mayoclinic.org.
 				</div>
 				</p>
 			</div>
@@ -185,7 +185,7 @@ Template Name: inicio
 				<h2>¿Por qué <br class="visible-xs"> pedialyte&reg;?</h2>
 				<p class="col-xs-12 no-padding generalTextPedialyte">
 					Pedialyte&reg; es un portafolio de sueros de rehidratación oral científicamente formulado, con el balance de azúcar y electrolitos que se necesita para reponer líquidos vitales, minerales y  nutrientes que una vez perdidos pueden conducir a un estado de deshidratación. <br>
-					Niños y adultos pueden usar Pedialyte&reg; en momentos de deshidratación leve o moderada a grave, para mantenerse hidratados. Por 50 años, Pedialyte&reg; ha ayudado a las personas a recuperarse  de cualquier tipo de deshidratación.	
+					Niños y adultos pueden usar Pedialyte&reg; en momentos de deshidratación leve o moderada a grave, para mantenerse hidratados. Por 50 años, Pedialyte&reg; ha ayudado a las personas a recuperarse  de cualquier tipo de deshidratación.
 				</p>
 			</div>
 			<div class="col-xs-12 textWhatsDehydration textoGeneralPedialyte">
@@ -311,7 +311,7 @@ Template Name: inicio
 				<h2 class="recommend">Pedialyte <span>&reg;</span>, el que más recomiendan los médicos en colombia*</h2>
 			</div>				
 			<div class="col-xs-12 textRecommend">
-				<p class="col-xs-12 no-padding customPadding">PEDIALYTE&reg; 30 mEq con Zinc. Registro Sanitario: INVIMA 2016M-0017049. Indicaciones: prevención temprana de la deshidratación leve por pérdida de líquidos y electrolitos. Pedialyte&reg; 30 mEq contiene zinc para ayudar a reponer tempranamente el zinc elimininado durante la pérdida de electrolítos y agua. PEDIALYTE&reg; MAX 60 mEq con Zinc. Registro Sanitario: INVIMA 2016M-0011256-R1. Indicaciones: Tratameinto de la deshidratación moderada a grave por pérdida de líquidos y electrolítos. Pedialyte&reg; MAX 60 mEq contine zinc para ayudar a reponer el zinc perdido durante la deshidratación por pérdida de líquidos y electrolitos. Es un medicamento. No exceder su consumo. Leer indicaciones y contraindicaciones en la etiqueta. Si los síntomas persisten consulte a su médico. Medicamento de venta libre. *Reporte IMS CLOSE UP Mayo 2017.
+				<p class="col-xs-12 no-padding customPadding">PEDIALYTE&reg; 30 mEq con Zinc. Registro Sanitario: INVIMA 2016M-0017049. Indicaciones: prevención temprana de la deshidratación leve por pérdida de líquidos y electrolitos. Pedialyte&reg; 30 mEq contiene zinc para ayudar a reponer tempranamente el zinc eliminado durante la pérdida de electrolitos y agua. PEDIALYTE&reg; MAX 60 mEq con Zinc. Registro Sanitario: INVIMA 2016M-0011256-R1. Indicaciones: Tratamiento de la deshidratación moderada a grave por pérdida de líquidos y electrolítos. Pedialyte&reg; MAX 60 mEq contiene zinc para ayudar a reponer el zinc perdido durante la deshidratación por pérdida de líquidos y electrolitos. Es un medicamento. No exceder su consumo. Leer indicaciones y contraindicaciones en la etiqueta. Si los síntomas persisten consulte a su médico. Medicamento de venta libre. *Reporte IMS CLOSE UP Mayo 2017.
 				</p>
 			</div>
 		</div>
