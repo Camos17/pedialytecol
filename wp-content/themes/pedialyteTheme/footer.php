@@ -5,18 +5,18 @@
 					<div class="col-xs-12 FAQ_Pedialyte">
 						<p class="col-xs-12 no-padding text-center">
 							<span>
-								<a href="#">¿Preguntas?</a>
+								¿Preguntas, 
 							</span>
 							<span>
-								<a href="#">¿Sugerencias?</a>
+								Sugerencias o 
 							</span>
 							<span>
-								<a href="#">¿Quieres saber más sobre pedialyte?</a>
+								Quieres saber más sobre pedialyte?
 							</span>
 							<br class="hidden-sm">
 							<br class="hidden-sm hidden-lg">
 							<span>
-								<a href="#">Ponte en contacto con nosotros</a>
+								Ponte en contacto con nosotros
 							</span>
 							<br class="hidden-xs">
 							<br class="hidden-xs hidden-sm hidden-lg">
@@ -28,13 +28,13 @@
 					<div class="col-xs-12 no-padding privacyPoliciesPedialyte">
 						<ul class="col-xs-12 col-sm-10 col-sm-offset-1 no-padding">
 							<li class="col-sm-2 col-sm-offset-1 col-lg-offset-2 no-padding">
-								<a href="doc/" target="_blank" download>Abbott Global</a>
+								<a href="http://www.abbott.com/" target="_blank" >Abbott Global</a>
 							</li>
 							<li class="col-sm-3 no-padding">
-								<a href="<?php echo get_bloginfo('template_directory'); ?>/doc/TérminosyCondicionesPáginaWeb.docx" target="_blank" download>Términos y Condiciones</a>
+								<a href="<?php echo get_bloginfo('template_directory'); ?>/doc/Términos y Condiciones Página Web.pdf" target="_blank" download>Términos y Condiciones</a>
 							</li>
 							<li class="col-sm-6 no-padding">
-								<a href="../doc/Política de tratamiento de datos.pdf" target="_blank" download>Politíca de Tratamiento de Datos Personales</a>
+								<a href="<?php echo get_bloginfo('template_directory'); ?>/doc/Política de tratamiento de datos.pdf" target="_blank" download>Politíca de Tratamiento de Datos Personales</a>
 							</li>
 						</ul>
 					</div>
