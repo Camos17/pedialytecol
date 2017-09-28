@@ -28,13 +28,13 @@
 					<div class="col-xs-12 no-padding privacyPoliciesPedialyte">
 						<ul class="col-xs-12 col-sm-10 col-sm-offset-1 no-padding">
 							<li class="col-sm-2 col-sm-offset-1 col-lg-offset-2 no-padding">
-								<a href="" download>Abbott Global</a>
+								<a href="doc/" target="_blank" download>Abbott Global</a>
 							</li>
 							<li class="col-sm-3 no-padding">
-								<a href="" download>Términos y Condiciones</a>
+								<a href="<?php echo get_bloginfo('template_directory'); ?>/doc/TérminosyCondicionesPáginaWeb.docx" target="_blank" download>Términos y Condiciones</a>
 							</li>
 							<li class="col-sm-6 no-padding">
-								<a href="" download>Politíca de Tratamiento de Datos Personales</a>
+								<a href="../doc/Política de tratamiento de datos.pdf" target="_blank" download>Politíca de Tratamiento de Datos Personales</a>
 							</li>
 						</ul>
 					</div>
@@ -48,6 +48,16 @@
 		</footer>
 		<?php wp_footer(); ?>
 		<script>
+
+			$(document).ready(function(){
+				$(this).scrollTop(0);
+				$('html').animate({scrollTop:0}, 1);
+    			$('body').animate({scrollTop:0}, 1);
+				var href = window.location.href,
+				newUrl = href.substring(0, href.indexOf('#'))
+				window.history.replaceState({}, '', newUrl);
+			});
+
 			smoothScroll.init({
 				// Speed & Easing
 				speed: 1300, // Integer. How fast to complete the scroll in milliseconds

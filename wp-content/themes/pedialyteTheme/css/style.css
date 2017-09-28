@@ -361,15 +361,23 @@ h2.recommend span {
 }
 
 .FAQ_Pedialyte p {
-    color: #2b87a2;
+    color: #2b87a2 !important;
     text-transform: uppercase;
     font-size: 1.65rem;
     font-weight: bold;
     margin-bottom: 0px;
 }
 
-.FAQ_Pedialyte p a {
+.FAQ_Pedialyte p span {
+    color: #2b87a2 !important;
+}
+
+.FAQ_Pedialyte p a,
+.FAQ_Pedialyte p a:hover,
+.FAQ_Pedialyte p a:active,
+.FAQ_Pedialyte p a:focus {
     cursor: pointer;
+    color: #2b87a2 !important;
 }
 
 .FAQ_Pedialyte span.mailFAQPedialyte  {

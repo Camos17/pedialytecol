@@ -113,7 +113,7 @@ Template Name: inicio
 		<div id="whatIsDehydration" class="col-xs-12 containerWhatsDehydration customPadding1">
 			<div class="col-xs-12 no-padding textoGeneralPedialyte">
 				<h2>¿Qué es la deshidratación?</h2>
-				<p class="col-xs-12 no-padding generalTextPedialyte">Todos los días perdemos agua a través de las funciones naturales del cuerpo, pero la deshidratación ocurre cuanod perdemos más fluidos de los que estamos consumiendo. Debido a que  nuestro cuerpo está hecho principalmente de agua y electrolitos, necesitamos mantener su balance óptimo en nuestro sistema.	Esto significa que mantenerse hidratado durante el día 
+				<p class="col-xs-12 no-padding generalTextPedialyte">Todos los días perdemos agua a través de las funciones naturales del cuerpo, pero la deshidratación ocurre cuando perdemos más fluidos de los que estamos consumiendo. Debido a que  nuestro cuerpo está hecho principalmente de agua y electrolitos, necesitamos mantener su balance óptimo en nuestro sistema.	Esto significa que mantenerse hidratado durante el día es de suma importancia.
 				</p>
 			</div>
 			<div class="col-xs-12 no-padding textWhyImportant textoGeneralPedialyte">
@@ -138,7 +138,7 @@ Template Name: inicio
 				<div class="col-xs-12 col-sm-8">
 					<h3>No todas las deshidrataciones son iguales</h3>
 					<p class="col-xs-12 no-padding generalTextPedialyte2">
-						Una deshidratación puede ser leve, moderada o grave según la cantidad de líquido corporal que se haya que se haya perdido o no se haya repuesto. Muchas cosas pueden causar deshidratación, siempre que tu o tu hijo pierdan líquidos corporales en grandes cantidades debido a una gastroenteritis, vómito o diarrea, el mantenerse hidratado puede ser más difícil. Tú o tu pequeño pueden perder más agua y electrolitos de los que pueden reponer fácilmente por medio de los aliementos y las bebidas habituales.
+						Una deshidratación puede ser leve, moderada o grave según la cantidad de líquido corporal que se haya perdido o no se haya repuesto. Muchas cosas pueden causar deshidratación, siempre que tú o tu hijo pierdan líquidos corporales en grandes cantidades debido a una gastroenteritis, vómito o diarrea, el mantenerse hidratado puede ser más difícil. Tú o tu pequeño pueden perder más agua y electrolitos de los que pueden reponer fácilmente por medio de los aliementos y las bebidas habituales.
 					</p>
 				</div>
 			</div>
@@ -148,7 +148,7 @@ Template Name: inicio
 		<div id="DehydrationCause" class="col-xs-12 containerDehydrationCause customPadding1">
 			<h2 class="col-xs-12 no-padding">¿Qué causa la deshidratación?</h2>
 			<p class="col-xs-12  generalTextPedialyte">
-				Muchas cosas pueden causar deshidratación. Por suerte, Pedialyte puede ayudarte a ti o a tu familia a mantenerse hidratada, en momentos de deshidratación leve y moderada a grave.	
+				Muchas cosas pueden causar deshidratación. Por suerte, Pedialyte&reg;  puede ayudarte a ti o a tu familia a mantenerse hidratada, en momentos de deshidratación leve y moderada a grave.	
 			</p>
 			<div class="col-xs-12 imagesDehydrationCause">
 				<div class="col-xs-12 col-sm-6 col-md-4 no-padding imgDehydrationCauses">
@@ -182,16 +182,16 @@ Template Name: inicio
 		<!-- Why Pedialyte -->
 		<div id="whyPedialyte" class="col-xs-12 conatinerWhyPedialyte customPadding1">
 			<div class="col-xs-12 textoGeneralPedialyte">
-				<h2>¿Por qué <br class="visible-xs"> padialyte?</h2>
+				<h2>¿Por qué <br class="visible-xs"> pedialyte?</h2>
 				<p class="col-xs-12 no-padding generalTextPedialyte">
-					Pedialyte es un portafolio de sueros de rehidratación oral cientificamente formulado, con el balance de azúcar y electrolitos que se necesita para reponer líquidos vitales, minerales y  nutrientes que una vez perdidos pueden conducir a un estado de deshidratación. <br>
-					Niños y adultos pueden usar Pedialyte en momentos de deshidratación leve o moderada a grave, para mantenerse hidratados. Por 50 años, Pedialyte ha ayudado a las personas a recuperarse  de cualquier tip de deshidratación.	
+					Pedialyte&reg; es un portafolio de sueros de rehidratación oral científicamente formulado, con el balance de azúcar y electrolitos que se necesita para reponer líquidos vitales, minerales y  nutrientes que una vez perdidos pueden conducir a un estado de deshidratación. <br>
+					Niños y adultos pueden usar Pedialyte&reg; en momentos de deshidratación leve o moderada a grave, para mantenerse hidratados. Por 50 años, Pedialyte&reg; ha ayudado a las personas a recuperarse  de cualquier tipo de deshidratación.	
 				</p>
 			</div>
 			<div class="col-xs-12 textWhatsDehydration textoGeneralPedialyte">
 				<h2 class="whyPedialyte">En la deshidratación por diferentes causas,</h2>
 				<p class="col-xs-12 whyPedialyteText">
-					Pedialyte tiene una solución para ti y todos los miembros de tu familia.
+					Pedialyte&reg; tiene una solución para ti y todos los miembros de tu familia.
 				</p>
 			</div>
 			<div class="col-xs-12 no-padding">
@@ -241,7 +241,7 @@ Template Name: inicio
 							<img class="img-responsive" src="<?php echo get_bloginfo('template_directory'); ?>/img/preventIcono1.png" alt="">
 						</div>
 						<div class="col-xs-10 col-sm-9 preventTextTip1">
-							<p>Para ayudar a una mejor hidratación, dale pedialyte max 60 con zinc. <br><br> Consulta la dosificación sugerida en la etiqueta del producto.</p>
+							<p>Para ayudar a una mejor hidratación, dale Pedialyte&reg; max 60 con zinc. <br><br> Consulta la dosificación sugerida en la etiqueta del producto.</p>
 						</div>
 					</div>
 					<div class="col-xs-12 col-lg-8 secondPreventTips">
@@ -279,7 +279,7 @@ Template Name: inicio
 									<img class="img-responsive" src="<?php echo get_bloginfo('template_directory'); ?>/img/preventIcono4.png" alt="">
 								</div>
 								<div class="col-xs-10 col-sm-9 preventTextTip3">
-									<p>Redhidrátalo lentamente con pedialyte max 60 con zinc. <br><br> Verifica que el número 60 esté en el frasco.</p>
+									<p>Redhidrátalo lentamente con Pedialyte&reg; max 60 con zinc. <br><br> Verifica que el número 60 esté en el frasco.</p>
 								</div>
 							</div>
 							<div class="col-xs-12 col-lg-6 no-padding preventIcon preventIconDesktop hidden-xs hidden-sm hidden-md">
@@ -297,7 +297,7 @@ Template Name: inicio
 								</div>
 								<div class="col-xs-10 col-sm-9 preventTextTip">
 									<p>No dejes de darle líquidos por temor a provocarle más diarrea o vómito.</p>
-								</div>						
+								</div>
 							</div>
 						</div>
 					</div>
