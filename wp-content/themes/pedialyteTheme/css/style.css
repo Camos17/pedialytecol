@@ -479,12 +479,15 @@ h3.modalSubtitle {
     color: #2b87a2;
 }
 
-.btnCloseModal {
+.btnCloseModal ,
+.btnCloseModal:hover,
+.btnCloseModal:active,
+.btnCloseModal:focus {
     color: #2b87a2;
-    background-color: transparent;
-    border: none;
+    background-color: transparent !important;
     font-size: 2rem;
     text-transform: uppercase;
+    border: none !important;
 }
 
 
