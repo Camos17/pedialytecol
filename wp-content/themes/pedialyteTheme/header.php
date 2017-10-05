@@ -38,8 +38,8 @@
 	</head>
 	<body>
 
-		<nav class="navbar navbar-default navbar-headerLogos has-feedback">
-			<div class="col-xs-12 no-padding containerHeaderLogos">
+		<nav class="col-xs-12 navbar navbar-default navbar-headerLogos has-feedback">
+			<div class="row col-xs-12 no-padding containerHeaderLogos">
 				<div class="col-xs-6 col-sm-3 logopedialyte">
 					<img class="img-responsive LogoPedialyte" src="<?php echo get_bloginfo('template_directory'); ?>/img/LogoPedialyte.png" alt="Pedialyte Colombia">
 				</div>

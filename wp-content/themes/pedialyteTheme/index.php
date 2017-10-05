@@ -9,6 +9,7 @@ Template Name: inicio
 		
 		<!-- Mobile Carousel -->
 		<div class="containerMobileCarousel hidden-sm hidden-md hidden-lg">
+
 			<div id="carousel-example-generic1" class="carousel slide" data-ride="carousel" data-interval="10000">
 				<!-- Indicators -->
 				<ol class="carousel-indicators">
@@ -148,7 +149,7 @@ Template Name: inicio
 		<div id="DehydrationCause" class="col-xs-12 containerDehydrationCause customPadding1">
 			<h2 class="col-xs-12 no-padding">¿Qué causa la deshidratación?</h2>
 			<p class="col-xs-12  generalTextPedialyte">
-				Muchas cosas pueden causar deshidratación. Por suerte, Pedialyte&reg;  puede ayudarte a ti o a tu familia a mantenerse hidratada, en momentos de deshidratación leve y moderada a grave.	
+				Muchas cosas pueden causar deshidratación. Por suerte, Pedialyte<span class="pedialyteReg">&reg;</span>  puede ayudarte a ti o a tu familia a mantenerse hidratada, en momentos de deshidratación leve y moderada a grave.	
 			</p>
 			<div class="col-xs-12 imagesDehydrationCause">
 				<div class="col-xs-12 col-sm-6 col-md-4 no-padding imgDehydrationCauses">
@@ -182,16 +183,16 @@ Template Name: inicio
 		<!-- Why Pedialyte -->
 		<div id="whyPedialyte" class="col-xs-12 conatinerWhyPedialyte customPadding1">
 			<div class="col-xs-12 textoGeneralPedialyte">
-				<h2>¿Por qué <br class="visible-xs"> pedialyte&reg;?</h2>
+				<h2>¿Por qué <br class="visible-xs"> pedialyte<span class="pedialyteReg2">&reg;</span>?</h2>
 				<p class="col-xs-12 no-padding generalTextPedialyte">
-					Pedialyte&reg; es un portafolio de sueros de rehidratación oral científicamente formulado, con el balance de azúcar y electrolitos que se necesita para reponer líquidos vitales, minerales y  nutrientes que una vez perdidos pueden conducir a un estado de deshidratación. <br>
-					Niños y adultos pueden usar Pedialyte&reg; en momentos de deshidratación leve o moderada a grave, para mantenerse hidratados. Por 50 años, Pedialyte&reg; ha ayudado a las personas a recuperarse  de cualquier tipo de deshidratación.
+					Pedialyte<span class="pedialyteReg">&reg;</span> es un portafolio de sueros de rehidratación oral científicamente formulado, con el balance de azúcar y electrolitos que se necesita para reponer líquidos vitales, minerales y  nutrientes que una vez perdidos pueden conducir a un estado de deshidratación. <br>
+					Niños y adultos pueden usar Pedialyte<span class="pedialyteReg">&reg;</span> en momentos de deshidratación leve o moderada a grave, para mantenerse hidratados. Por 50 años, Pedialyte<span class="pedialyteReg">&reg;</span> ha ayudado a las personas a recuperarse  de cualquier tipo de deshidratación.
 				</p>
 			</div>
 			<div class="col-xs-12 textWhatsDehydration textoGeneralPedialyte">
 				<h2 class="whyPedialyte">En la deshidratación por diferentes causas,</h2>
 				<p class="col-xs-12 whyPedialyteText">
-					Pedialyte&reg; tiene una solución para ti y todos los miembros de tu familia.
+					Pedialyte<span class="pedialyteReg2">&reg;</span> tiene una solución para ti y todos los miembros de tu familia.
 				</p>
 			</div>
 			<div class="col-xs-12 no-padding">
@@ -220,7 +221,7 @@ Template Name: inicio
 					<img class="img-responsive" src="<?php echo get_bloginfo('template_directory')?>/img/Chart_1.png" alt="">
 				</div>
 				<div class="col-xs-12 col-sm-6 no-padding chart2">
-					<h4>Qué no deberían comer</h4>
+					<h4>Qué no deberían comer</h4|>
 					<img class="img-responsive" src="<?php echo get_bloginfo('template_directory')?>/img/Chart_2.png" alt="">
 				</div>
 			</div>
@@ -241,7 +242,7 @@ Template Name: inicio
 							<img class="img-responsive" src="<?php echo get_bloginfo('template_directory'); ?>/img/preventIcono1.png" alt="">
 						</div>
 						<div class="col-xs-10 col-sm-9 preventTextTip1">
-							<p>Para ayudar a una mejor hidratación, dale Pedialyte&reg; max 60 con zinc. <br><br> Consulta la dosificación sugerida en la etiqueta del producto.</p>
+							<p>Para ayudar a una mejor hidratación, dale Pedialyte<span class="pedialyteReg">&reg;</span> max 60 con zinc. <br><br> Consulta la dosificación sugerida en la etiqueta del producto.</p>
 						</div>
 					</div>
 					<div class="col-xs-12 col-lg-8 secondPreventTips">
@@ -268,7 +269,7 @@ Template Name: inicio
 									<img class="img-responsive" src="<?php echo get_bloginfo('template_directory'); ?>/img/preventIcono4.png" alt="">
 								</div>
 								<div class="col-xs-10 col-sm-9 preventTextTip3">
-									<p>Redhidrátalo lentamente con pedialyte&reg; max 60 con zinc. <br><br> Verifica que el número 60 esté en el frasco.</p>
+									<p>Redhidrátalo lentamente con pedialyte<span class="pedialyteReg">&reg;</span> max 60 con zinc. <br><br> Verifica que el número 60 esté en el frasco.</p>
 								</div>
 							</div>
 							<div class="row no-padding dividerPrevent hidden-lg"></div>
@@ -279,7 +280,7 @@ Template Name: inicio
 									<img class="img-responsive" src="<?php echo get_bloginfo('template_directory'); ?>/img/preventIcono4.png" alt="">
 								</div>
 								<div class="col-xs-10 col-sm-9 preventTextTip3">
-									<p>Redhidrátalo lentamente con Pedialyte&reg; max 60 con zinc. <br><br> Verifica que el número 60 esté en el frasco.</p>
+									<p>Redhidrátalo lentamente con Pedialyte<span class="pedialyteReg">&reg;</span> max 60 con zinc. <br><br> Verifica que el número 60 esté en el frasco.</p>
 								</div>
 							</div>
 							<div class="col-xs-12 col-lg-6 no-padding preventIcon preventIconDesktop hidden-xs hidden-sm hidden-md">
@@ -308,14 +309,13 @@ Template Name: inicio
 		<!-- Recommend Pedialyte  -->
 		<div class="col-xs-12 no-padding containerRecommend">
 			<div class="col-xs-12">
-				<h2 class="recommend">Pedialyte <span>&reg;</span>, el que más recomiendan los médicos en colombia*</h2>
+				<h2 class="recommend">Pedialyte <span><span class="pedialyteReg2">&reg;</span></span>, el que más recomiendan los médicos en colombia*</h2>
 			</div>				
 			<div class="col-xs-12 textRecommend">
-				<p class="col-xs-12 no-padding customPadding">PEDIALYTE&reg; 30 mEq con Zinc. Registro Sanitario: INVIMA 2016M-0017049. Indicaciones: prevención temprana de la deshidratación leve por pérdida de líquidos y electrolitos. Pedialyte&reg; 30 mEq contiene zinc para ayudar a reponer tempranamente el zinc eliminado durante la pérdida de electrolitos y agua. PEDIALYTE&reg; MAX 60 mEq con Zinc. Registro Sanitario: INVIMA 2016M-0011256-R1. Indicaciones: Tratamiento de la deshidratación moderada a grave por pérdida de líquidos y electrolítos. Pedialyte&reg; MAX 60 mEq contiene zinc para ayudar a reponer el zinc perdido durante la deshidratación por pérdida de líquidos y electrolitos. Es un medicamento. No exceder su consumo. Leer indicaciones y contraindicaciones en la etiqueta. Si los síntomas persisten consulte a su médico. Medicamento de venta libre. *Reporte IMS CLOSE UP Mayo 2017.
+				<p class="col-xs-12 no-padding customPadding">PEDIALYTE<span class="pedialyteReg">&reg;</span> 30 mEq con Zinc. Registro Sanitario: INVIMA 2016M-0017049. Indicaciones: prevención temprana de la deshidratación leve por pérdida de líquidos y electrolitos. Pedialyte<span class="pedialyteReg">&reg;</span> 30 mEq contiene zinc para ayudar a reponer tempranamente el zinc eliminado durante la pérdida de electrolitos y agua. PEDIALYTE<span class="pedialyteReg">&reg;</span> MAX 60 mEq con Zinc. Registro Sanitario: INVIMA 2016M-0011256-R1. Indicaciones: Tratamiento de la deshidratación moderada a grave por pérdida de líquidos y electrolítos. Pedialyte<span class="pedialyteReg">&reg;</span> MAX 60 mEq contiene zinc para ayudar a reponer el zinc perdido durante la deshidratación por pérdida de líquidos y electrolitos. Es un medicamento. No exceder su consumo. Leer indicaciones y contraindicaciones en la etiqueta. Si los síntomas persisten consulte a su médico. Medicamento de venta libre. *Reporte IMS CLOSE UP Mayo 2017.
 				</p>
 			</div>
 		</div>
-
 	</div>
 	
 	<?php get_footer(); ?>

@@ -68,12 +68,17 @@ button:focus {
     margin-bottom: 0px;
 }
 
+.carousel .carosuel-inner .item img {
+    width: 100% !important;
+}
+
 .carousel-control.left, .carousel-control.right {
     background-image: none;
 }
 
 .carousel-indicators {
     bottom: -60px;
+    z-index: 0;
 }
 
 .carousel-indicators li {
@@ -99,13 +104,27 @@ button:focus {
     line-height: 30px;
 }
 
+.pedialyteReg {
+    font-size: 1.3rem;
+    top: -8px;
+    position: relative;
+}
+
+.pedialyteReg2 {
+    font-size: 1.6rem;
+    top: -14px;
+    position: relative;
+}
+
 
 /* MENU AND NAVIGATION  */
 
 .navbar-headerLogos {
     min-height: 140px;
-    background-color: transparent;
+    background-color: #FFF;
     border: none;
+    position: fixed;
+    z-index: 20;
 }
 
 .containerHeaderLogos {
@@ -117,9 +136,10 @@ button:focus {
 .navbar-menuLinks {
     min-height: 55px;
     background-color: #e22119;
-    position: absolute;
-    z-index: 1;
+    position: fixed;
+    z-index: 20;
     border: none;
+    margin-top: 140px;
 }
 
 .navbar-menuLinks .container-fluid,
@@ -171,13 +191,11 @@ button:focus {
 
 
 
-
-
 /* HOME LANDING STYLES */
 
 .containerHomePedialyte {
     min-height: calc(100% - 195px);
-    margin-top: 63px;
+    margin-top: 203px;
 }
 
 .containerWhatsDehydration {
@@ -407,6 +425,7 @@ h2.recommend span {
 
 .privacyPoliciesPedialyte ul li a {
     color: #404041;
+    cursor: pointer;
 }
 
 .copyrightPedialyte p {
@@ -415,6 +434,59 @@ h2.recommend span {
     margin-top: 20px;
     font-weight: bold;
 }
+
+
+
+/* MODALS */
+
+.modal-content {
+    border-radius: 0px;
+    background-color: #d8efee;
+    padding-top: 40px;
+}
+
+.modal-header, .modal-footer {
+    border: none;
+}
+
+.modal-header button {
+    opacity: 1;
+}
+
+.modal-header button span i {
+    font-size: 5rem;
+    color: #e31d3f;
+    right: 15px;
+    position: relative;
+}
+
+h2.modal-title {
+    font-size: 3.2rem;
+}
+
+h3.modalSubtitle {
+    font-size: 2.65rem;
+    color: #2b87a2;
+    text-align: center;
+}
+
+.modal-body .textpolicies p,
+.modal-body .textterms p {
+    text-align: center;
+}
+
+.textpolicies p span {
+    color: #2b87a2;
+}
+
+.btnCloseModal {
+    color: #2b87a2;
+    background-color: transparent;
+    border: none;
+    font-size: 2rem;
+    text-transform: uppercase;
+}
+
 
 
 
@@ -456,7 +528,7 @@ h2.recommend span {
     }
 
     .containerHomePedialyte {
-        margin-top: 60px;
+        margin-top: 200px;
     }
 
     .navbar-menuLinks .container-fluid {
@@ -657,15 +729,16 @@ h2.recommend span {
         font-size: 1.8rem;
     }
 
-    .navbar-menuLinks {
-        min-height: 50px;
-        position: relative;
-    }
-    
-    .containerHomePedialyte {
-        margin-top: 10px;
+    .navbar-headerLogos {
+        width: inherit;
     }
 
+    .navbar-menuLinks {
+        min-height: 50px;
+        position: fixed;
+        width: inherit;
+    }
+    
     .generalTextPedialyte {
         font-size: 1.7rem;
     }
