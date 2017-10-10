@@ -21,20 +21,20 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'pedialyte');
-// define('DB_NAME', 'heroku_9a115c690127c45');
+// define('DB_NAME', 'pedialyte');
+define('DB_NAME', 'heroku_9a115c690127c45');
 
 /** MySQL database username */
-define('DB_USER', 'root');
-// define('DB_USER', 'b3db59366903b9');
+// define('DB_USER', 'root');
+define('DB_USER', 'b3db59366903b9');
 
 /** MySQL database password */
-define('DB_PASSWORD', '');
-// define('DB_PASSWORD', '89576860');
+// define('DB_PASSWORD', '');
+define('DB_PASSWORD', '89576860');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
-// define('DB_HOST', 'us-cdbr-iron-east-05.cleardb.net');
+// define('DB_HOST', 'localhost');
+define('DB_HOST', 'us-cdbr-iron-east-05.cleardb.net');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');
@@ -83,7 +83,7 @@ $table_prefix  = 'ped_';
  * @link https://codex.wordpress.org/Debugging_in_WordPress
  */
  define('WP_DEBUG', true);
- define('FS_METHOD', 'direct');
+//  define('FS_METHOD', 'direct');
 
 /* That's all, stop editing! Happy blogging. */
 
