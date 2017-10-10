@@ -221,7 +221,7 @@ Template Name: inicio
 					<img class="img-responsive" src="<?php echo get_bloginfo('template_directory')?>/img/Chart_1.png" alt="">
 				</div>
 				<div class="col-xs-12 col-sm-6 no-padding chart2">
-					<h4>Qué no deberían comer</h4|>
+					<h4>Qué no deberían comer</h4>
 					<img class="img-responsive" src="<?php echo get_bloginfo('template_directory')?>/img/Chart_2.png" alt="">
 				</div>
 			</div>
