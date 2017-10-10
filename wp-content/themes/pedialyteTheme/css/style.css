@@ -116,6 +116,12 @@ button:focus {
     position: relative;
 }
 
+.pedialyteReg3 {
+    font-size: 0.9rem;
+    top: -5px;
+    position: relative;
+}
+
 
 /* MENU AND NAVIGATION  */
 
@@ -562,15 +568,14 @@ h3.modalSubtitle {
     .menuLinks li:nth-child(3) {
         min-height: 52px;
     }
-
+/*  */
     .deployedMenu .menuLinks li a,
     .deployedMenu .menuLinks li a:hover,
     .deployedMenu .menuLinks li a:active,
     .deployedMenu .menuLinks li a:focus {
         font-size: 1rem;
         line-height: 14px;
-        padding-top: 12px;
-        padding-bottom: 12px;
+        padding: 12px 11px 12px;
     }
 
     .deployedMenu .menuLinks li.lastLink {

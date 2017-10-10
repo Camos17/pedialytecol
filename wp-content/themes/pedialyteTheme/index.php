@@ -3,8 +3,8 @@
 Template Name: inicio
 */
 ?>	
-	<?php get_header(); ?>
-
+<?php get_header(); ?>
+	
 	<div class="col-xs-12 no-padding containerHomePedialyte">
 		
 		<!-- Mobile Carousel -->
@@ -158,18 +158,17 @@ Template Name: inicio
 				<div class="col-xs-12 col-sm-6 col-md-4 no-padding imgDehydrationCauses">
 					<img class="img-responsive" src="<?php echo get_bloginfo('template_directory'); ?>/img/GraphicTexts2.png" alt="">
 				</div>					
-				<div class="col-xs-12 col-sm-6 col-md-4 no-padding imgDehydrationCauses">
+				<div class="col-xs-12 col-sm-6 col-md-4 hidden no-padding imgDehydrationCauses">
 					<img class="img-responsive" src="<?php echo get_bloginfo('template_directory'); ?>/img/GraphicTexts3.png" alt="">
 				</div>					
 				<div class="col-xs-12 col-sm-6 col-md-4 no-padding imgDehydrationCauses">
 					<img class="img-responsive" src="<?php echo get_bloginfo('template_directory'); ?>/img/GraphicTexts4.png" alt="">
 				</div>
-				<div class="col-xs-12 col-sm-6 col-md-4 no-padding imgDehydrationCauses visible-md visible-lg">
+				<div class="col-xs-12 col-sm-6 col-md-4 hidden no-padding imgDehydrationCauses">
 					<img class="img-responsive" src="<?php echo get_bloginfo('template_directory'); ?>/img/GraphicTexts5.png" alt="">
 				</div>
 			</div>
-			<div class="col-xs-12 recommendationText">
-									
+			<div class="col-xs-12 hidden recommendationText">									
 				<div class="col-xs-12 col-sm-6 col-md-4 no-padding imgDehydrationCauses visible-xs visible-sm">
 					<img class="img-responsive" src="<?php echo get_bloginfo('template_directory'); ?>/img/GraphicTexts5.png" alt="">
 				</div>
@@ -312,10 +311,10 @@ Template Name: inicio
 				<h2 class="recommend">Pedialyte <span><span class="pedialyteReg2">&reg;</span></span>, el que más recomiendan los médicos en colombia*</h2>
 			</div>				
 			<div class="col-xs-12 textRecommend">
-				<p class="col-xs-12 no-padding customPadding">PEDIALYTE<span class="pedialyteReg">&reg;</span> 30 mEq con Zinc. Registro Sanitario: INVIMA 2016M-0017049. Indicaciones: prevención temprana de la deshidratación leve por pérdida de líquidos y electrolitos. Pedialyte<span class="pedialyteReg">&reg;</span> 30 mEq contiene zinc para ayudar a reponer tempranamente el zinc eliminado durante la pérdida de electrolitos y agua. PEDIALYTE<span class="pedialyteReg">&reg;</span> MAX 60 mEq con Zinc. Registro Sanitario: INVIMA 2016M-0011256-R1. Indicaciones: Tratamiento de la deshidratación moderada a grave por pérdida de líquidos y electrolítos. Pedialyte<span class="pedialyteReg">&reg;</span> MAX 60 mEq contiene zinc para ayudar a reponer el zinc perdido durante la deshidratación por pérdida de líquidos y electrolitos. Es un medicamento. No exceder su consumo. Leer indicaciones y contraindicaciones en la etiqueta. Si los síntomas persisten consulte a su médico. Medicamento de venta libre. *Reporte IMS CLOSE UP Mayo 2017.
+				<p class="col-xs-12 no-padding customPadding">PEDIALYTE<span class="pedialyteReg3">&reg;</span> 30 mEq con Zinc. Registro Sanitario: INVIMA 2016M-0017049. Indicaciones: prevención temprana de la deshidratación leve por pérdida de líquidos y electrolitos. Pedialyte<span class="pedialyteReg3">&reg;</span> 30 mEq contiene zinc para ayudar a reponer tempranamente el zinc eliminado durante la pérdida de electrolitos y agua. PEDIALYTE<span class="pedialyteReg3">&reg;</span> MAX 60 mEq con Zinc. Registro Sanitario: INVIMA 2016M-0011256-R1. Indicaciones: Tratamiento de la deshidratación moderada a grave por pérdida de líquidos y electrolítos. Pedialyte<span class="pedialyteReg3">&reg;</span> MAX 60 mEq contiene zinc para ayudar a reponer el zinc perdido durante la deshidratación por pérdida de líquidos y electrolitos. Es un medicamento. No exceder su consumo. Leer indicaciones y contraindicaciones en la etiqueta. Si los síntomas persisten consulte a su médico. Medicamento de venta libre. *Reporte IMS CLOSE UP Mayo 2017.
 				</p>
 			</div>
 		</div>
 	</div>
 	
-	<?php get_footer(); ?>
+<?php get_footer(); ?>

@@ -71,7 +71,7 @@
 							<a data-scroll href="#DehydrationCause">¿Qué causa la <br class="hidden-xs"> deshidratación?</a>
 						</li>
 						<li>
-							<a data-scroll class="customLink" href="#whyPedialyte">¿Por qué pedialyte?</a>
+							<a data-scroll class="customLink" href="#whyPedialyte">¿Por qué pedialyte<span class="pedialyteReg">&reg;</span>?</a>
 						</li>
 						<li>
 							<a data-scroll href="#hydration">Hidratación <br class="hidden-xs"> y Alimentación</a>
