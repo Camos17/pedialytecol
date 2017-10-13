@@ -10,7 +10,9 @@ Template Name: inicio
 		<!-- Mobile Carousel -->
 		<div class="containerMobileCarousel hidden-sm hidden-md hidden-lg">
 
-			<div id="carousel-example-generic1" class="carousel slide" data-ride="carousel" data-interval="10000">
+			<?php echo do_shortcode('[image-carousel category="mobile_carousel" interval="10000"]'); ?>
+
+			<div id="carousel-example-generic1" class="carousel slide hidden" data-ride="carousel" data-interval="10000">
 				<!-- Indicators -->
 				<ol class="carousel-indicators">
 					<li data-target="#carousel-example-generic1" data-slide-to="0" class="active"></li>
@@ -60,8 +62,11 @@ Template Name: inicio
 		</div>
 
 		<!-- Desktop Carousel -->
-		<div class="containerDesktopCarousel hidden-xs ">
-			<div id="carousel-example-generic2" class="carousel slide" data-ride="carousel" data-interval="10000">
+		<div class="containerDesktopCarousel hidden-xs">
+
+			<?php echo do_shortcode('[image-carousel category="desktop_carosuel" interval="10000"]'); ?>
+
+			<div id="carousel-example-generic2" class="carousel slide hidden" data-ride="carousel" data-interval="10000">
 				<!-- Indicators -->
 				<ol class="carousel-indicators">
 					<li data-target="#carousel-example-generic2" data-slide-to="0" class="active"></li>

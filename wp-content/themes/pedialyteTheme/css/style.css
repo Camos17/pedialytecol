@@ -90,6 +90,18 @@ button:focus {
     background-color: #e22119 !important;
 }
 
+.containerMobileCarousel .carousel-inner .item img,
+.containerDesktopCarousel .carousel-inner .item img {
+    width: 100% !important;
+}
+
+.containerMobileCarousel .carousel-control.right span,
+.containerMobileCarousel .carousel-control.left span,
+.containerDesktopCarousel .carousel-control.right span,
+.containerDesktopCarousel .carousel-control.left span {
+    display: none;
+}
+
 .generalTextPedialyte {
     color: #404041;
     font-size: 1.85rem;
@@ -145,6 +157,7 @@ button:focus {
     position: fixed;
     z-index: 20;
     border: none;
+    border-radius: 0px;
     margin-top: 140px;
 }
 
