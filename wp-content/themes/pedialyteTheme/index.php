@@ -120,7 +120,7 @@ Template Name: inicio
 			<div class="col-xs-12 no-padding textoGeneralPedialyte">
 				<h2>¿Qué es la deshidratación?</h2>
 				<p class="col-xs-12 no-padding generalTextPedialyte">
-					<?php the_field("primary_text_what_is_dehydration"); ?>
+					<?php the_field("que_es_deshidratacion"); ?>
 				</p>
 			</div>
 			<div class="col-xs-12 no-padding textWhyImportant textoGeneralPedialyte">
