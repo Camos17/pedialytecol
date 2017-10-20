@@ -119,7 +119,8 @@ Template Name: inicio
 		<div id="whatIsDehydration" class="col-xs-12 containerWhatsDehydration customPadding1">
 			<div class="col-xs-12 no-padding textoGeneralPedialyte">
 				<h2>¿Qué es la deshidratación?</h2>
-				<p class="col-xs-12 no-padding generalTextPedialyte">Todos los días perdemos agua a través de las funciones naturales del cuerpo, pero la deshidratación ocurre cuando perdemos más fluidos de los que estamos consumiendo. Debido a que  nuestro cuerpo está hecho principalmente de agua y electrolitos, necesitamos mantener su balance óptimo en nuestro sistema.	Esto significa que mantenerse hidratado durante el día es de suma importancia.
+				<p class="col-xs-12 no-padding generalTextPedialyte">
+					<?php the_field("primary_text_what_is_dehydration"); ?>
 				</p>
 			</div>
 			<div class="col-xs-12 no-padding textWhyImportant textoGeneralPedialyte">
@@ -131,7 +132,7 @@ Template Name: inicio
 				<div class="col-xs-12 col-sm-8">
 					<h3>¿Por qué es tan importante?</h3>
 					<p class="col-xs-12 no-padding generalTextPedialyte2">
-						Hidratarse de forma adecuada mejora la temperatura corporal, activa las funciones del cerebro y previene la fatiga. También ayuda a mantener la piel hidratada, producir los fluidos corporales necesarios como lágrimas y saliva, y remover desechos a través del sudor, la orina  y la materia fecal.
+						<?php the_field('porque_es_tan_impportante'); ?>
 					</p>
 				</div>
 			</div>
@@ -144,7 +145,7 @@ Template Name: inicio
 				<div class="col-xs-12 col-sm-8">
 					<h3>No todas las deshidrataciones son iguales</h3>
 					<p class="col-xs-12 no-padding generalTextPedialyte2">
-						Una deshidratación puede ser leve, moderada o grave según la cantidad de líquido corporal que se haya perdido o que no se haya repuesto. Muchas cosas pueden causar deshidratación, siempre que tú o tu hijo pierdan líquidos corporales en grandes cantidades debido a una gastroenteritis, vómito o diarrea, el mantenerse hidratado puede ser más difícil. Tú o tu pequeño pueden perder más agua y electrolitos de los que pueden reponer fácilmente por medio de los alimentos y las bebidas habituales.
+						<?php the_field('no_son_iguales'); ?>
 					</p>
 				</div>
 			</div>
@@ -154,7 +155,7 @@ Template Name: inicio
 		<div id="DehydrationCause" class="col-xs-12 containerDehydrationCause customPadding1">
 			<h2 class="col-xs-12 no-padding">¿Qué causa la deshidratación?</h2>
 			<p class="col-xs-12  generalTextPedialyte">
-				Muchas cosas pueden causar deshidratación. Por suerte, Pedialyte<span class="pedialyteReg">&reg;</span>  puede ayudarte a ti o a tu familia a mantenerse hidratada, en momentos de deshidratación leve y moderada a grave.	
+				<?php the_field('que_causa_deshidratacion'); ?>
 			</p>
 			<div class="col-xs-12 imagesDehydrationCause">
 				<div class="col-xs-12 col-sm-6 col-md-4 no-padding imgDehydrationCauses">
@@ -189,8 +190,7 @@ Template Name: inicio
 			<div class="col-xs-12 textoGeneralPedialyte">
 				<h2>¿Por qué <br class="visible-xs"> pedialyte<span class="pedialyteReg2">&reg;</span>?</h2>
 				<p class="col-xs-12 no-padding generalTextPedialyte">
-					Pedialyte<span class="pedialyteReg">&reg;</span> es un portafolio de sueros de rehidratación oral científicamente formulado, con el balance de azúcar y electrolitos que se necesita para reponer líquidos vitales, minerales y  nutrientes que una vez perdidos pueden conducir a un estado de deshidratación. <br>
-					Niños y adultos pueden usar Pedialyte<span class="pedialyteReg">&reg;</span> en momentos de deshidratación leve o moderada a grave, para mantenerse hidratados. Por 50 años, Pedialyte<span class="pedialyteReg">&reg;</span> ha ayudado a las personas a recuperarse  de cualquier tipo de deshidratación.
+					<?php the_field('por_que_pedialyte'); ?>
 				</p>
 			</div>
 			<div class="col-xs-12 textWhatsDehydration textoGeneralPedialyte">
