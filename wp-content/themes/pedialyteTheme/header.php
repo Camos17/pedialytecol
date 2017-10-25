@@ -67,19 +67,19 @@
 				<div class="deployedMenu collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 					<ul class="col-sm-12 no-padding nav navbar-nav menuLinks">
 						<li>
-							<a data-scroll href="#whatIsDehydration">¿Qué es <br class="hidden-xs"> la deshidratación?</a>
+							<a data-scroll href="#queEsLaDeshidratacion">¿Qué es <br class="hidden-xs"> la deshidratación?</a>
 						</li>
 						<li>
-							<a data-scroll href="#DehydrationCause">¿Qué causa la <br class="hidden-xs"> deshidratación?</a>
+							<a data-scroll href="#causasDeshidratacion">¿Qué causa la <br class="hidden-xs"> deshidratación?</a>
 						</li>
 						<li>
-							<a data-scroll class="customLink" href="#whyPedialyte">¿Por qué pedialyte<span class="pedialyteReg">&reg;</span>?</a>
+							<a data-scroll class="customLink" href="#porquePedialyte">¿Por qué pedialyte<span class="pedialyteReg">&reg;</span>?</a>
 						</li>
 						<li>
-							<a data-scroll href="#hydration">Hidratación <br class="hidden-xs"> y Alimentación</a>
+							<a data-scroll href="#hidratacion">Hidratación <br class="hidden-xs"> y Alimentación</a>
 						</li>
 						<li class="lastLink">
-							<a data-scroll href="#containerPrevent">¿Cómo prevenir <br class="hidden-xs"> la deshidratación?</a>
+							<a data-scroll href="#prevenirDeshidratacion">¿Cómo prevenir <br class="hidden-xs"> la deshidratación?</a>
 						</li>
 						<li class="dropdown hidden">
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> ¿Por qué pedialyte? <span class="caret"></span></a>

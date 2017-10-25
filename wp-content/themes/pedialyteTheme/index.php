@@ -116,7 +116,7 @@ Template Name: inicio
 		</div>
 		
 		<!-- What is Dehydration -->
-		<div id="whatIsDehydration" class="col-xs-12 containerWhatsDehydration customPadding1">
+		<div id="queEsLaDeshidratacion" class="col-xs-12 containerWhatsDehydration customPadding1">
 			<div class="col-xs-12 no-padding textoGeneralPedialyte">
 				<h1>¿Qué es la deshidratación?</h1>
 				<p class="col-xs-12 no-padding generalTextPedialyte">
@@ -152,7 +152,7 @@ Template Name: inicio
 		</div>
 
 		<!-- Dehydration Causes -->
-		<div id="DehydrationCause" class="col-xs-12 containerDehydrationCause customPadding1">
+		<div id="causasDeshidratacion" class="col-xs-12 containerDehydrationCause customPadding1">
 			<h2 class="col-xs-12 no-padding">¿Qué causa la deshidratación?</h2>
 			<p class="col-xs-12  generalTextPedialyte">
 				<?php the_field('que_causa_deshidratacion'); ?>
@@ -186,7 +186,7 @@ Template Name: inicio
 		</div>
 
 		<!-- Why Pedialyte -->
-		<div id="whyPedialyte" class="col-xs-12 conatinerWhyPedialyte customPadding1">
+		<div id="porquePedialyte" class="col-xs-12 conatinerWhyPedialyte customPadding1">
 			<div class="col-xs-12 textoGeneralPedialyte">
 				<h2>¿Por qué <br class="visible-xs"> pedialyte<span class="pedialyteReg2">&reg;</span>?</h2>
 				<p class="col-xs-12 no-padding generalTextPedialyte">
@@ -212,7 +212,7 @@ Template Name: inicio
 		</div>
 
 		<!-- Hydration -->
-		<div id="hydration" class="col-xs-12 containerHydration customPadding1">
+		<div id="hidratacion" class="col-xs-12 containerHydration customPadding1">
 			<div class="col-xs-12 textoGeneralPedialyte">
 				<h2 class="whyPedialyte">Hidrata a tu familia y aliméntala correctamente,</h2>
 				<p class="col-xs-12 whyPedialyteText">
@@ -232,7 +232,7 @@ Template Name: inicio
 		</div>
 
 		<!-- Prevent Dehydration -->
-		<div id="containerPrevent" class="col-xs-12 containerPrevent customPadding1">
+		<div id="prevenirDeshidratacion" class="col-xs-12 containerPrevent customPadding1">
 			<div class="col-xs-12 no-padding textoGeneralPedialyte">
 				<h2 class="whyPedialyte">¿Cómo prevenir a tiempo</h2>
 				<p class="col-xs-12 whyPedialyteText">
